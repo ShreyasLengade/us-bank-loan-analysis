@@ -15,7 +15,8 @@ Welcome to the Financial Loan Intelligence Dashboard repository! Here you will f
 <li>Total amount received: - Tracking the total amount received from borrowers is essential for assessing the bank’s cash flow and loan repayment. We should analyze the Month- to – Date (MTD) total amount received and observe the Month- over- month (MoM) changes.</li>
 <li>Average interest rate: - Calculating the average interest rate across all loans, MTD, and monitoring the Month-over-month (MoM) variations in interest rates will provide insights into our lending portfolio’s overall cost. </li>
 <li>Average Debt- to -Income ratio (DTI): - Evaluating the average DTI for our borrowers helps us gauge their financial health. We need to compute the average DTI for all loans, MTD and track Month-over-Month (MoM) fluctuations.</li>
-<img src="https://github.com/ShreyasLengade/Github-Images/blob/3ec1ed7be8a051dea7306e75533c091cbcc46091/Summary.png">
+<img src="https://github.com/ShreyasLengade/Github-Images/blob/172b90daf6771b3a39c145ada190731cae4b02ea/db1.jpg">
+  
 </details>
 
 <details>
@@ -29,7 +30,7 @@ Welcome to the Financial Loan Intelligence Dashboard repository! Here you will f
 
 <details>
   <summary><strong>Problem Statement</strong></summary>
-  <img src="https://github.com/ShreyasLengade/Github-Images/blob/9e820b2908fd5930d75d6a721d18b03da1b6ff00/OVERVIEW.jpg">
+  <img src="https://github.com/ShreyasLengade/Github-Images/blob/35cb4966ca7b0ccfd5b73d4d4d5a14697f7f0b07/db2.jpg">
 </details>
 
 <details>
@@ -43,7 +44,7 @@ Welcome to the Financial Loan Intelligence Dashboard repository! Here you will f
 
 <details>
   <summary><strong>Problem Statement</strong></summary>
-  <img src="https://github.com/ShreyasLengade/Github-Images/blob/330c2050813ef9b8f3b1122c23dd07d885f9247e/DETAILS.jpg">
+  <img src="https://github.com/ShreyasLengade/Github-Images/blob/6d09bd6fa907816d995a6075dc6e22129ec80d80/db%203.jpg">
 </details>
 
 <details>
