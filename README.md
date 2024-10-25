@@ -1,6 +1,6 @@
-# US Banks' Loans Analysis
+# Financial Loan Intelligence Dashboard
 
-Welcome to the US Banks' Loans Analysis repository! Here you will find a collection of Tableau dashboards focusing on various aspects of loans in the banking sector. Each dashboard addresses specific questions and provides insights into different levels of loan data. <b><i>I've also added query document which has all the queries that I used to get data based on KPIs' mentioned. This step was done in MS sql server and it was neccessary to perform so that I could crosscheck the ouput of the Tableau dashboard with the sql queries output. This provided analysis quality and correctness.</i></b>
+Welcome to the Financial Loan Intelligence Dashboard repository! Here you will find a collection of Tableau dashboards focusing on various aspects of loans in the banking sector. Each dashboard addresses specific questions and provides insights into different levels of loan data. <b><i>I've also added query document which has all the queries that I used to get data based on KPIs' mentioned. This step was done in MS sql server and it was neccessary to perform so that I could crosscheck the ouput of the Tableau dashboard with the sql queries output. This provided analysis quality and correctness.</i></b>
 
 ## Dashboards
 <b> Please click on play button to expand and view the problem statement and screenshot </b>
