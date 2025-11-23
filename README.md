@@ -1,6 +1,21 @@
 # Financial Loan Intelligence Dashboard
 
-Welcome to the Financial Loan Intelligence Dashboard repository! Here you will find a collection of Tableau dashboards focusing on various aspects of loans in the banking sector. Each dashboard addresses specific questions and provides insights into different levels of loan data. <b><i>I've also added query document which has all the queries that I used to get data based on KPIs' mentioned. This step was done in MS sql server and it was neccessary to perform so that I could crosscheck the ouput of the Tableau dashboard with the sql queries output. This provided analysis quality and correctness.</i></b>
+This project is an interactive Tableau dashboard built to analyze and monitor a bank’s loan portfolio. The report provides a clear view of lending performance, repayment trends, and borrower risk indicators to support credit and portfolio decision-making.
+
+<b>What the dashboard covers:</b>
+
+-Overall lending KPIs: total loan applications, total funded amount, total amount received (repayments), average interest rate, and average debt-to-income (DTI).
+
+-Month-to-date (MTD) and month-on-month (MoM) trend tracking for key measures.
+
+-Loan-level drill-downs with details such as purpose, home ownership, credit grade/sub-grade, issue year, loan amount, interest rate, installment, and total payment.
+
+-Interactive filters to slice performance by loan purpose, credit grade, and verification status.
+
+<b>Who it’s for:</b>
+Designed for lending, risk, and portfolio teams to quickly identify growth trends, repayment health, and risk pockets across loan segments.
+
+<b>Tools used:</b> Tableau (dashboarding, calculated fields, interactivity, and drill-downs).</i></b>
 
 ## Dashboards
 <b> Please click on play button to expand and view the problem statement and screenshot </b>
